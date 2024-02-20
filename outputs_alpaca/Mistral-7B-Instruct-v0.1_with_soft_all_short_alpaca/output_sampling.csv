@@ -1,0 +1,987 @@
+,prompt,input,output
+0,What factors would you consider when designing an inclusive and accessible public transportation system?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What factors would you consider when designing an inclusive and accessible public transportation system? [/INST]","When designing an inclusive and accessible public transportation system, several factors should be considered. These include:
+
+1. Accessibility: The transportation system should be designed to be accessible to people of all abilities, including those with disabilities. This can include features such as ramps, elevators, and accessible seating.
+
+2. Safety: The transportation system should be safe for all users, including those with disabilities. This can include features such as handrails, safety belts, and emergency alarms.
+
+3. Comfort: The transportation system should be comfortable for all users, including those with disabilities. This can include features such as climate control, comfortable seating, and noise reduction.
+
+4. Ease of use: The transportation system should be easy to use for all users, including those with disabilities. This can include features such as intuitive signage, clear instructions, and assistance from staff or automated systems.
+
+5. Cost: The transportation system should be cost-effective for all users, including those with disabilities. This can include features such as affordable fares, subsidies, and incentives.
+
+By considering these factors, a public transportation system can be designed to be inclusive, accessible, safe, comfortable, easy to use, and cost-effective for all users."
+1,Is a thumb war violent?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Is a thumb war violent? [/INST]","A thumb war is a nonviolent game or activity played by two people, typically as a friendly competition or way to pass the time. It involves flexing and twisting the thumbs in different ways to see who can outdo the other. While it may not cause physical harm, it's important to use good sportsmanship and not engage in any behavior that could be perceived as aggressive or violent."
+2,"Provide a pleasant compliment based on the quality you have been given.
+
+Truthfulness","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Provide a pleasant compliment based on the quality you have been given.
+
+Truthfulness [/INST]",Thank you for being truthful with me. Your honesty is greatly appreciated.
+3,"Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.
+
+What does the green light symbolize at the end of the book?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Answer the following literature question as accurately as possible based on your knowledge of literature for high school students.
+
+What does the green light symbolize at the end of the book? [/INST]","For ""To Kill a Mockingbird"" by Harper Lee, the green light at the end of the book symbolizes Scout's desire to understand and learn more about the world and her place in it. It also represents her growing maturity and her ability to see beyond the surface of things. Additionally, it can also be interpreted as a symbol of hope and the potential for positive change."
+4,"Give a brief explanation of the requested part of the paper.
+
+Paper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.
+Explain: The dominant sequence transduction models","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Give a brief explanation of the requested part of the paper.
+
+Paper: The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.
+Explain: The dominant sequence transduction models [/INST]","The dominant sequence transduction models are a type of artificial intelligence (AI) model that are used for tasks such as machine translation, where the goal is to translate one language to another. These models are based on complex neural networks, specifically recurrent or convolutional neural networks, which are designed to process sequential data. The best performing models also include an attention mechanism, which allows the model to focus on specific parts of the input sequence when making predictions. The paper proposes a new simple network architecture called the Transformer, which is based solely on attention mechanisms and does not use recurrence or convolutions. The Transformer achieves superior results on machine translation tasks, requires less time to train, and is more parallelizable than the dominant sequence transduction models. The paper also shows that the Transformer generalizes well to other tasks, including English constituency parsing."
+5,How can I increase my productivity while working from home?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+How can I increase my productivity while working from home? [/INST]","To increase your productivity while working from home, you can follow these tips:
+
+1. Create a designated workspace: Set up a separate area in your home for work to help you get into the right mindset.
+
+2. Stick to a routine: Try to maintain a regular schedule for work and personal time to help you stay organized and focused.
+
+3. Take breaks: Take short breaks throughout the day to help refresh your mind and avoid burnout.
+
+4. Stay active: Exercise regularly and take short walks to help boost your energy levels and improve your focus.
+
+5. Minimize distractions: Turn off notifications and limit your access to social media to minimize distractions.
+
+6. Plan your day: Make a to-do list for the day and prioritize tasks to help you stay on track and accomplish more.
+
+7. Stay organized: Use tools such as calendars, to-do lists, and project management software to help you stay organized and on top of your work.
+
+8. Communicate with colleagues: Stay in touch with colleagues and team members through video conferencing and other tools to help you feel connected and stay informed."
+6,"if it takes 8 hours to fly to Singapore, stop over for an hour and a half and then fly 14 hours to London then what is the total travel time if the plane is delayed in Singapore","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+if it takes 8 hours to fly to Singapore, stop over for an hour and a half and then fly 14 hours to London then what is the total travel time if the plane is delayed in Singapore [/INST]","The total travel time will depend on the flight schedule and the duration of the delay in Singapore. If the plane leaves Singapore on time and arrives in London on schedule, the total travel time would be approximately 22 hours and 30 minutes (8 hours from Singapore to London plus the 14-hour direct flight from Singapore to London plus the 1 hour and 30 minutes stopover).
+
+If there is a delay in Singapore, the total travel time will be longer than the original estimate. The delay will add time to the overall travel time, but it's difficult to give an exact estimate without knowing the duration of the delay. It's always a good idea to check the flight status and the updated arrival time before traveling to the airport to plan accordingly."
+7,"Rewrite the text and correct the spelling errors.
+
+It solves problems comon and uniqe to every team.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Rewrite the text and correct the spelling errors.
+
+It solves problems comon and uniqe to every team. [/INST]",It solves common and unique problems to every team.
+8,What are F-centers in crystallography ? How are they created and what consequences do they have on the overall appearance of crystal ?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What are F-centers in crystallography ? How are they created and what consequences do they have on the overall appearance of crystal ? [/INST]","In crystallography, F-centers refer to the centers of the crystal lattice where there are four nearest neighbors in all four directions. These centers are formed by the arrangement of atoms or molecules in the crystal lattice, where the atoms or molecules are held together by intermolecular forces such as covalent bonds or metallic bonding.
+
+The presence of F-centers can affect the overall appearance of a crystal by influencing its optical properties. For example, some crystals may exhibit strong absorption or emission of light at specific wavelengths due to the arrangement of atoms or molecules around F-centers. Additionally, the arrangement of atoms or molecules around F-centers can affect the crystal's refractive index, which can influence how light behaves as it passes through the crystal."
+9,How can governments utilize fiscal and monetary policies to combat economic recessions?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+How can governments utilize fiscal and monetary policies to combat economic recessions? [/INST]","Fiscal and monetary policies can be used by governments to combat economic recessions. Some common fiscal policies include increasing government spending, reducing taxes, or providing subsidies to businesses and individuals. Monetary policies include adjusting interest rates, increasing the money supply, or providing liquidity to banks. These policies can help stimulate demand, increase investment, and create jobs, helping to recover from a recession."
+10,what chemicals does l-theanine affect,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+what chemicals does l-theanine affect [/INST]","L-Theanine is an amino acid found in tea leaves that is believed to have calming and stress-reducing effects. It is not typically considered a chemical in the same way that synthetic compounds like caffeine or nicotine are.
+
+When consumed, l-theanine can help to reduce stress, anxiety, and improve relaxation. It may also help to reduce the jittery and nervous feelings that can come with caffeine use. However, it is important to note that individual responses to l-theanine can vary, and it is always a good idea to talk to a healthcare provider before taking any new supplements."
+11,Create a table with the planets of the solar system and their dimensions,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Create a table with the planets of the solar system and their dimensions [/INST]","Sure! Here is a table with the planets of the solar system and their dimensions:
+
+| Planet | Diameter (km) |
+| --- | --- |
+| Mercury | 4,880 |
+| Venus | 12,104 |
+| Earth | 12,742 |
+| Mars | 6,779 |
+| Jupiter | 139,820 |
+| Saturn | 116,460 |
+| Uranus | 50,724 |
+| Neptune | 49,244 |
+
+I hope that helps! Let me know if you need anything else."
+12,"Do we have a moral obligation to explore space, or should we focus on solving Earth's problems first?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Do we have a moral obligation to explore space, or should we focus on solving Earth's problems first? [/INST]","When it comes to exploring space and solving Earth's problems, it is important to consider both aspects and prioritize what is most urgent and beneficial for humanity. Exploring space has led to significant scientific discoveries and technological advancements, while addressing Earth's problems is essential for the survival and well-being of our planet. Ultimately, it is up to individuals, governments, and societies to make informed decisions about where to allocate resources and priorities, considering the potential benefits and risks of each."
+13,"List the personality traits that are required to be successful in the given job.
+
+Social Media Marketer","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+List the personality traits that are required to be successful in the given job.
+
+Social Media Marketer [/INST]","As a social media marketer, some personality traits that can contribute to success include:
+
+1. Creativity - to come up with engaging content and campaigns that resonate with the target audience.
+2. Communication skills - to effectively interact with customers, stakeholders, and colleagues.
+3. Analytical thinking - to track and measure the success of campaigns, and make data-driven decisions.
+4. Adaptability - to keep up with the constantly changing social media landscape and adjust strategies as needed.
+5. Attention to detail - to ensure that all content and campaigns are error-free and aligned with the brand's image.
+6. Time management - to balance competing priorities and meet tight deadlines.
+7. Team player - to collaborate effectively with other departments and stakeholders.
+8. Empathy - to understand and connect with the target audience on an emotional level.
+9. Strategic thinking - to develop and implement long-term plans that align with the company's overall goals."
+14,What breed dog is smallest?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What breed dog is smallest? [/INST]",The smallest breed of dog is the Chihuahua. They typically weigh between 2 to 6 pounds and stand at about 6 to 9 inches tall. They are a popular choice for small homes and apartments.
+15,"Compose an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Compose an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions. [/INST]","Traveling to Hawaii is an experience like no other. The islands are rich in culture, natural beauty, and adventure, making it the perfect destination for any traveler. In this blog post, we'll share some of our favorite cultural experiences and must-see attractions from a recent trip to Hawaii.
+
+One of the first things to do when visiting Hawaii is to experience the local culture. Whether it's visiting a traditional luau or taking a cooking class, there are many ways to immerse yourself in Hawaiian culture. We had the pleasure of attending a luau in Honolulu and it was an amazing experience. The food, music, and dancing were all authentic and gave us a glimpse into Hawaiian traditions.
+
+Another great way to experience the local culture is by visiting a Hawaiian Village. These villages are like mini-cities within a city, and they offer a glimpse into what life was like in Hawaii before the arrival of the Europeans. We spent an afternoon exploring the Waikiki Village and learned about the history and traditions of the Hawaiian people.
+
+When it comes to must-see attractions, there are plenty to choose from. One of the most famous is Pearl Harbor. This historic site is a sobering reminder of the devastating attack on the United States in 1941. We took a guided tour of the harbor and learned about the history of the attack and its impact on the world.
+
+Another must-see attraction is Diamond Head. This iconic landmark is located at the southern tip of Honolulu and offers stunning views of the city and the ocean. We hiked to the top and enjoyed the panoramic views of Waikiki and the surrounding area.
+
+For those who love nature, Hawaii Volcanoes National Park is a must-visit. This park is home to two active volcanoes and offers a unique glimpse into the geology of the islands. We took a guided tour of the park and learned about the different types of volcanic formations and the unique ecosystem that exists on the islands.
+
+Finally, no trip to Hawaii would be complete without visiting the beach. Hawaii is home to some of the most beautiful beaches in the world, and we spent plenty of time lounging on the sand and soaking up the sun. Our favorite beach was Lanikai Beach on Oahu, which offers crystal-clear waters, soft sand, and stunning views of the islands.
+
+In conclusion, traveling to Hawaii is an experience like no other. From immersing ourselves in Hawaiian culture to exploring the natural beauty of the islands, we had an unforgettable time. Whether you're interested in history, nature, or just relaxing on the beach, Hawaii has something for everyone."
+16,Draft a ministerial speech outlining the top five benefits that innovation brings to the Australian economy,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Draft a ministerial speech outlining the top five benefits that innovation brings to the Australian economy [/INST]","Honorable Speaker and distinguished members of Parliament,
+
+As the world becomes increasingly interconnected and rapidly evolving, it is crucial for our country to embrace innovation in order to stay competitive and thrive in the global economy. I am here today to outline the top five benefits that innovation brings to the Australian economy, and the important role that we must play in fostering this spirit of innovation.
+
+First and foremost, innovation drives growth. New ideas and technologies are constantly emerging that can create new industries, new products, and new jobs. By investing in research and development, we can encourage companies to innovate and expand, which in turn will help to grow our economy.
+
+Second, innovation improves productivity. Through the use of technology and automation, companies can streamline their operations, reduce costs, and increase efficiency. This not only leads to greater profitability for businesses, but also allows us to produce more goods and services with fewer resources, which benefits the economy as a whole.
+
+Third, innovation leads to increased competitiveness. With the ever-increasing globalization of the economy, it is more important than ever for Australian businesses to remain competitive on a global scale. By investing in innovation, we can help to ensure that our businesses are able to stay ahead of the curve, and take advantage of new opportunities in the global market.
+
+Fourth, innovation promotes sustainability. As we face growing environmental challenges, it is important for us to find new and innovative ways to produce goods and services that are more sustainable and eco-friendly. By investing in sustainable innovation, we can help to protect our environment, while also creating new opportunities for growth and prosperity.
+
+Finally, innovation fosters entrepreneurship. By encouraging innovation, we can create an environment that is conducive to entrepreneurship, and help to support the growth of new businesses. This can lead to new job opportunities and increased economic growth, as well as helping to drive innovation and creativity within the economy.
+
+In conclusion, innovation is a vital part of the Australian economy, and it is crucial that we continue to invest in and support innovation in order to ensure that we remain competitive and prosperous in the years to come. I urge all of you to consider the important role that innovation plays in our economy, and to work together to create a future that is characterized by innovation, growth, and prosperity.
+
+Thank you."
+17,"Decide if the given email belongs to the Promotions or Social category.
+
+Subject: You have an invitation
+Email: Hi, I'd like to join your LinkedIn network.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Decide if the given email belongs to the Promotions or Social category.
+
+Subject: You have an invitation
+Email: Hi, I'd like to join your LinkedIn network. [/INST]","Sure, I'd be happy to help. 
+
+To categorize the email as either Promotions or Social, we need to look for some specific elements. 
+
+If the email contains an offer, discount, or promotion, we can categorize it as Promotions. However, in this case, the email only contains a request to join someone's LinkedIn network, so it's more likely to be in the Social category. 
+
+So, this email belongs to the Social category."
+18,Suggest some names for a friendly group in telegram.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Suggest some names for a friendly group in telegram. [/INST]","Sure! Here are a few suggestions for friendly group names in Telegram:
+
+1. Happy Chats
+2. Group Hugs
+3. Fun Friends
+4. Good Vibes
+5. Laugh Lounge
+6. Positive Pals
+7. Good Times
+8. Good Guys/Gals
+9. Chill Out Club
+10. Good Ol' Friends
+
+I hope these suggestions help you come up with a great name for your Telegram group!"
+19,Where is Indonesia?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Where is Indonesia? [/INST]","Indonesia is a country located in Southeast Asia. Its capital and largest city is Jakarta, and it is made up of more than 27,000 islands. It is known for its diverse culture, beautiful beaches, and rich biodiversity."
+20,How do I check my system drive for errors on Windows?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+How do I check my system drive for errors on Windows? [/INST]","To check for errors on your system drive in Windows, follow these steps:
+
+1. Open the Start menu and search for ""Command Prompt"" or ""Windows PowerShell"" in the search box.
+
+2. Right-click on the Command Prompt or PowerShell icon and select ""Run as administrator"".
+
+3. In the Command Prompt or PowerShell window, type the following command and press enter:
+```css
+chkdsk C: /f
+```
+In this command, ""C:"" is the letter of your system drive.
+
+4. The `/f` option tells the `chkdsk` utility to run a full check of the drive.
+
+5. If any errors are found, the utility will display a message indicating the location and type of error.
+
+Alternatively, you can use the ""Disk Checker"" tool available in the Start menu under ""Windows Settings"" -> ""System"" -> ""Storage"" -> ""Check"". This will also scan your system drive for errors.
+
+After running the scan, if you find any errors, you should either repair them or back up your data, as the drive might become unstable and cause issues with your system."
+21,What is kevlar made out of?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What is kevlar made out of? [/INST]","Kevlar is a material made from polymer fibers of the type aramid, derived from phenolic resins and monomers, which can be manufactured to have various chemical, physical, and mechanical properties. It is known for its high strength-to-weight ratio and is commonly used in applications that require high durability and resistance to heat, chemicals, and fatigue."
+22,What if the Maya civilization had never mysteriously collapsed?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What if the Maya civilization had never mysteriously collapsed? [/INST]","If the Maya civilization had not mysteriously collapsed, it's difficult to say exactly what the world would be like today. However, it's possible that the advancements and innovations they made in astronomy, calendrics, and writing systems could have continued to influence and impact our modern society. The Maya civilization was also known for their impressive architectural achievements, so it's possible that these could have continued to inspire and influence modern architecture and design. It's also possible that the Maya civilization could have continued to have a significant impact on the cultural and spiritual traditions of the region and beyond. However, it's important to note that the Maya civilization was not the only civilization to have advanced and declined over time, and the world we live in today is the result of a complex interplay of many different factors and civilizations."
+23,Are you as capable as ChatGPT?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Are you as capable as ChatGPT? [/INST]","As of my last update, I am not as capable as ChatGPT, but I am constantly learning and improving. Thank you for asking!"
+24,what are five important topics for game design,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+what are five important topics for game design [/INST]","To design a successful game, several topics are crucial to consider. These include:
+
+1. Game Mechanics: The rules and systems that govern gameplay, such as controls, scoring, and objectives.
+2. Story and Narrative: The storyline, characters, and world-building elements that immerse players in the game's universe.
+3. Art and Design: The visual and auditory aspects of the game, such as graphics, sound effects, and music.
+4. User Experience (UX): How the game is designed to be intuitive, engaging, and fun for players.
+5. Target Audience: Understanding the target audience for the game, including their preferences, interests, and age range, to design a game that will appeal to them."
+25,"You are a professional video creator. Your job is coming up with viral TikTok ideas. Your ideas are always, creative, and the TikTok audience loves them.
+Write a viral TikTok video based on Batik Tradjumas.
+Topic: Batik Tradjumas","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+You are a professional video creator. Your job is coming up with viral TikTok ideas. Your ideas are always, creative, and the TikTok audience loves them.
+Write a viral TikTok video based on Batik Tradjumas.
+Topic: Batik Tradjumas [/INST]","Sure, I'd be happy to help come up with a TikTok video idea based on Batik Tradjumas!
+
+Here's one idea:
+
+Title: ""Tradjumas Challenge""
+
+Concept: The Tradjumas Challenge is a TikTok dance challenge inspired by the traditional Indonesian dance, Batik Tradjumas. The dance is known for its flowing, graceful movements and colorful costumes.
+
+To participate in the challenge, dancers will need to follow a few simple steps:
+
+1. Choose a piece of Batik Tradjumas music to dance to (there are many options available on TikTok's music library).
+2. Put on a bright, colorful costume that incorporates traditional Batik designs.
+3. Learn the basic movements of Batik Tradjumas (there are many tutorials available online).
+4. Practice the dance until you feel comfortable with the moves.
+5. Post your video to TikTok with the hashtag #TradjumasChallenge.
+
+The goal of the challenge is to show off your dance skills and creativity while also honoring the rich cultural heritage of Batik Tradjumas. Encourage dancers to share their videos and tag friends to join in on the fun!
+
+I hope this TikTok video idea inspires you and gives you some creative inspiration for your next video. Good luck with your content creation!"
+26,"Can we find a formula to generate all prime numbers, and is the distribution of primes truly random?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Can we find a formula to generate all prime numbers, and is the distribution of primes truly random? [/INST]","Yes, there is a formula to generate all prime numbers, known as the Prime Number Theorem. However, the distribution of primes is not truly random, as there are patterns and relationships between them. The theorem simply provides a formula for calculating the number of primes less than a given number."
+27,What are the USP for a saas survey tool,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What are the USP for a saas survey tool [/INST]","A SaaS (Software as a Service) survey tool is a web-based application that allows users to create and distribute surveys online. The unique selling points (USPs) of a SaaS survey tool can include:
+
+1. User-friendly interface: An intuitive and easy-to-use interface that makes it simple for users to create and distribute surveys, and for respondents to complete them.
+2. Customizable survey templates: The ability to create custom survey templates using pre-built question types and formats, or to create completely custom questions and layouts.
+3. Real-time data analysis: The ability to view and analyze survey data in real-time, allowing users to quickly identify trends and insights.
+4. Integration with other tools: The ability to integrate with other tools and platforms, such as email marketing software, customer relationship management (CRM) systems, and project management tools.
+5. Security and data protection: Strong security measures and data protection features to ensure that survey data is kept safe and secure.
+6. Scalability: The ability to scale the tool to handle large survey projects and a growing number of users.
+7. Pricing and flexible plans: Variety of pricing plans and options to accommodate different budgets and needs, including a freemium model, pay-per-survey, or subscription-based pricing.
+8. Advanced features: Additional features such as skip logic, branching, and advanced analytics to enhance the survey-taking experience and provide more detailed insights.
+
+It's important to note that the USPs will vary depending on the target audience and the specific needs of the organization using the tool."
+28,"Consider this situation. Customer is ready to pay $13 for my product but we are not able to raise invoice for less than $20. So in this situation, act like a top sales person &amp; closing expert &amp; give me an email copy to upsell this customer with another $13 product so that it can create a win win situation.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Consider this situation. Customer is ready to pay $13 for my product but we are not able to raise invoice for less than $20. So in this situation, act like a top sales person &amp; closing expert &amp; give me an email copy to upsell this customer with another $13 product so that it can create a win win situation. [/INST]","Dear [Customer],
+
+Thank you for considering our product. I understand that you are interested in purchasing it for $13, but unfortunately we are unable to raise an invoice for less than $20.
+
+However, I would like to suggest an alternative option that could create a win-win situation for both of us. We have a similar product that is priced at $13, and it could complement your initial purchase. This additional product would bring the total invoice amount to $20, allowing us to process the payment.
+
+We understand that this may not be exactly what you were looking for, but I hope you find this offer attractive. Please let us know if you have any questions or if you are interested in purchasing both products.
+
+Thank you for considering our company."
+29,can you cook an egg only using durect sunlight in any place of our solar system ?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+can you cook an egg only using durect sunlight in any place of our solar system ? [/INST]","Sure, I can help with that! Direct sunlight can be used to cook an egg, but the process may take some time depending on the temperature and duration of exposure. Here are some steps you can follow to cook an egg using direct sunlight:
+
+1. Choose a sunny location: Find a place where the sun shines brightly and directly onto the egg. Avoid shaded areas or areas with wind or cloud cover.
+2. Position the egg: Place the egg on a flat surface, such as a plate or tray, so that it is exposed to as much direct sunlight as possible.
+3. Set a timer: Depending on the temperature and the size of the egg, it may take anywhere from a few minutes to an hour or more to cook through. Start with a timer of 30 minutes and check the egg periodically. If it is still runny after 30 minutes, increase the time by 5 minutes. If it is overcooked, decrease the time by 5 minutes.
+4. Check for doneness: Once the egg is fully cooked, it will be firm to the touch and the white will be fully set. If it is still runny or soft, continue to cook it in the sunlight.
+5. Enjoy: Once the egg is cooked to your liking, it is ready to eat!
+
+Please note that this method may not be practical or safe in all places, especially in extreme weather conditions or on high-rise buildings where there is no safe place to expose the egg to direct sunlight. Additionally, this method should only be used for educational purposes, and should not be used as a substitute for cooking food in a safe and controlled environment."
+30,"I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Israeli Cheese Bourekas? [/INST]","Sure, I can help you with a recipe for Israeli Cheese Bourekas. Here's what you'll need:
+
+Ingredients:
+
+* 2 sheets of frozen puff pastry
+* 1 cup of crumbled feta cheese
+* 1/2 cup of chopped scallions
+* 1/4 cup of chopped fresh parsley
+* 1/4 cup of chopped fresh dill
+* 2 eggs, beaten
+* Salt and pepper to taste
+* 2 tablespoons of melted butter
+
+Instructions:
+
+1. Preheat the oven to 375°F.
+2. Thaw the puff pastry sheets according to the package instructions.
+3. In a large mixing bowl, combine the crumbled feta cheese, chopped scallions, chopped parsley, chopped dill, salt, and pepper.
+4. Roll out one sheet of puff pastry on a lightly floured surface until it's about 1/4 inch thick.
+5. Spread half of the feta cheese mixture evenly over the surface of the puff pastry, leaving a 1-inch border around the edges.
+6. Roll the puff pastry tightly into a jelly roll, starting from the long side.
+7. Cut the jelly roll into 1-inch thick slices.
+8. Arrange the slices cut-side down on a baking sheet lined with parchment paper.
+9. Brush the top of each bourekas with the beaten eggs and melted butter.
+10. Bake the bourekas in the preheated oven for 25-30 minutes, or until they're golden brown and the cheese is melted.
+11. Serve warm and enjoy!
+
+I hope you enjoy this recipe! Let me know if you need any more assistance."
+31,I am learning Mandarin. Could you give me some advice to memorize how to write Chinese characters and speed up my learning?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I am learning Mandarin. Could you give me some advice to memorize how to write Chinese characters and speed up my learning? [/INST]","Sure, here are some tips to help you memorize how to write Chinese characters and speed up your learning:
+
+1. Start with the basics: Focus on learning the most common characters first, such as those used in everyday writing and reading. You can find resources online or in textbooks that provide a list of these characters.
+2. Use visualization: Visualize the meaning of each character and try to associate it with a mental image. This can help you remember the character and its meaning.
+3. Practice regularly: Consistent practice is key to learning and memorizing Chinese characters. Try writing a few characters a day and gradually increase the number as you become more comfortable.
+4. Use flashcards: Flashcards can be a helpful tool for memorizing new characters. Write the character on one side and its meaning on the other. Test yourself by flipping over the card and writing the character on your own.
+5. Break down the characters: Chinese characters are made up of smaller components called radicals. Breaking down the characters into their radicals can help you understand the meaning of the character and make it easier to remember.
+6. Use mnemonic devices: Mnemonic devices such as acronyms, rhymes, and associations can help you remember new characters. Try creating a mnemonic device for each new character you learn.
+7. Join a language exchange: Joining a language exchange group can be a great way to practice speaking and writing Mandarin with native speakers. This can help you become more familiar with the language and improve your writing skills.
+
+By following these tips and practicing consistently, you can improve your ability to write Chinese characters and speed up your learning."
+32,What are the most effective strategies for conflict resolution in the workplace?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What are the most effective strategies for conflict resolution in the workplace? [/INST]","When it comes to conflict resolution in the workplace, there are several effective strategies that can help to manage and resolve disagreements in a constructive manner. Here are a few strategies that may be helpful:
+
+1. Listen actively: Before you can effectively address a conflict, you need to understand the other person's perspective. Active listening involves paying close attention to what the other person is saying, asking clarifying questions, and refraining from interrupting.
+2. Identify the underlying issues: Conflicts can often be resolved more quickly and effectively if the underlying issues are identified and addressed. This may involve exploring the root causes of the conflict, and working together to find a solution that addresses those underlying issues.
+3. Use ""I"" statements: When discussing the conflict, use ""I"" statements to express your own feelings and concerns, rather than accusing the other person. This can help to de-escalate the situation and make it easier to find a solution.
+4. Look for common ground: Even in the midst of a conflict, there may be areas of common ground that can be built upon. Focusing on these commonalities can help to find a solution that is acceptable to both parties.
+5. Consider mediation or arbitration: If the conflict cannot be resolved through direct communication, mediation or arbitration may be helpful. These processes involve a neutral third party who can help to facilitate communication and find a solution that is acceptable to both parties.
+
+By using these strategies, you can help to manage and resolve conflicts in the workplace in a constructive and effective manner."
+33,Need 300 words on the importance to documenting history in relation to the future,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Need 300 words on the importance to documenting history in relation to the future [/INST]","Documenting history is important for several reasons. One reason is that it allows us to learn from the past and understand how events and actions have shaped the world. By studying history, we can gain insights into the motivations and actions of individuals and societies, and how they have impacted the world we live in today. This can help us to make better decisions in the present, and to shape a better future.
+
+Additionally, documenting history can help to preserve the memory and legacy of past generations. When we document our experiences and stories, we ensure that they will be passed down to future generations, and that the world will have a better understanding of the events and people that have shaped our world.
+
+Finally, documenting history can also help to promote a sense of identity and continuity. By understanding our own history and the history of the communities and societies we belong to, we can develop a sense of connection and belonging that can be valuable in our personal and professional lives.
+
+Overall, documenting history is important for learning from the past, preserving the legacy of past generations, and promoting a sense of identity and continuity. It can help us to make better decisions in the present, and to shape a better future for ourselves and for the world."
+34,"Using a table, compare the career overviews of the given players in Major League Baseball. Use ""|"" for separating the columns in the table.
+
+Derek Jeter, Albert Pujols","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Using a table, compare the career overviews of the given players in Major League Baseball. Use ""|"" for separating the columns in the table.
+
+Derek Jeter, Albert Pujols [/INST]","Sure, I can help you with that! Here's a table comparing the career overviews of Derek Jeter and Albert Pujols in Major League Baseball:"
+35,"Look for poems that mention the given object or character. The names of the poems and their poets should be written.
+
+santa claus","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Look for poems that mention the given object or character. The names of the poems and their poets should be written.
+
+santa claus [/INST]","When searching for poems that mention Santa Claus, some options include:"
+36,Why can time seem to slow down in dangerous situations?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Why can time seem to slow down in dangerous situations? [/INST]","Time can seem to slow down in dangerous situations due to the release of adrenaline in the body, which can cause a feeling of time dilation. This is a natural response of the body to perceived threats, and can help individuals react quickly and efficiently to dangerous situations. Additionally, the heightened awareness and focus in such situations can also contribute to the feeling of time slowing down."
+37,what are african governments doing to improve air traffic connectivity,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+what are african governments doing to improve air traffic connectivity [/INST]","African governments are implementing various measures to improve air traffic connectivity in the region. Some of the steps being taken include:
+
+1. Investing in airport infrastructure: Governments are investing in modernizing and expanding airports to accommodate more flights and passengers. This includes upgrading terminals, runways, and other facilities.
+2. Improving air traffic management: Governments are working to improve air traffic management systems, including air traffic control towers, radar systems, and other technology. This is to increase safety and efficiency in air traffic operations.
+3. Encouraging private sector investment: Governments are encouraging private sector investment in air transport infrastructure, including airlines and airports. This is to promote competition and increase capacity in the air transport sector.
+4. Strengthening regional cooperation: Governments are working together to develop regional aviation policies and strategies, including agreements on air transport regulations and safety standards. This is to promote harmonization and facilitate the movement of people and goods across borders.
+5. Expanding aviation routes: African governments are working to expand air traffic routes within the region, including opening new destinations and increasing the frequency of flights. This is to promote tourism and trade and stimulate economic growth."
+38,"Give a brief summary of the intention of the dialogue that just happened.
+
+Customer: Hi there, I'm looking for a new phone.
+AI: Hi! What type of phone are you looking for?
+Customer: I'm not sure. Maybe something with a good camera?
+AI: We have a few phones with great cameras. Would you like to see some options?
+Customer: Yeah, that would be great.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Give a brief summary of the intention of the dialogue that just happened.
+
+Customer: Hi there, I'm looking for a new phone.
+AI: Hi! What type of phone are you looking for?
+Customer: I'm not sure. Maybe something with a good camera?
+AI: We have a few phones with great cameras. Would you like to see some options?
+Customer: Yeah, that would be great. [/INST]",The intention of the dialogue is to assist the customer in finding a new phone with a good camera. The AI asked the customer what type of phone they were looking for and provided a few options with great cameras.
+39,"Create a brief resume introduction using the following information.
+
+name: Mark
+nationality: Italian
+language: English
+attributes: creative, goal-oriented, motivated
+skills: software engineering, content marketing","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Create a brief resume introduction using the following information.
+
+name: Mark
+nationality: Italian
+language: English
+attributes: creative, goal-oriented, motivated
+skills: software engineering, content marketing [/INST]","Mark is an Italian national with a strong background in software engineering and content marketing. He is known for his creativity, goal-oriented mindset, and strong motivation. With his expertise in software engineering and content marketing, Mark is a valuable asset to any team looking for a talented and driven individual to help achieve their goals."
+40,"""I am trying to win over a new client for my writing services and skinny brown dog media to as as a ghost writer for their book Unbreakable Confidence. Can you help me write a persuasive proposal that highlights the benefits and value of having a editor/publisher""","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+""I am trying to win over a new client for my writing services and skinny brown dog media to as as a ghost writer for their book Unbreakable Confidence. Can you help me write a persuasive proposal that highlights the benefits and value of having a editor/publisher"" [/INST]","Of course! I'd be happy to help you write a persuasive proposal that highlights the benefits and value of having a ghostwriter. Here are a few key points to consider:
+
+1. Begin with an attention-grabbing opening paragraph that captures the reader's interest and sets the stage for the rest of the proposal.
+2. Introduce yourself and your company, and briefly explain your qualifications and experience as a ghostwriter.
+3. Highlight the specific benefits that your services can bring to the client's project, such as expertise in a particular subject matter, a unique perspective, or the ability to turn raw ideas into a polished, professional product.
+4. Provide examples of your previous work and testimonials from satisfied clients to demonstrate your ability to deliver high-quality results.
+5. Address any concerns or objections that the client may have, and provide a detailed plan for how you will overcome any challenges that may arise.
+6. Close the proposal with a strong call to action, encouraging the client to choose your services and provide a detailed breakdown of your fees and timeline.
+
+By following these tips, you can create a persuasive proposal that effectively highlights the value and benefits of working with a ghostwriter like yourself."
+41,"What is the name of the windows XP background image?
+Where was it taken and by who?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What is the name of the windows XP background image?
+Where was it taken and by who? [/INST]","The name of the default Windows XP background image is ""Bliss,"" and it was taken by photographer Charles Baker. It depicts a close-up of a woman's face, with her eyes closed and her mouth open in a soft smile. The image was chosen because it was calming and soothing, and it has become one of the most recognizable and iconic images in the history of computing."
+42,"Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of ""attribute: value"".
+
+SAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Take the title of the product and extract its attributes. The attributes in this case refer to the characteristics of the products, such as their brand and color. Your answer must a list following the format of ""attribute: value"".
+
+SAMSUNG 980 PRO SSD 2TB PCIe NVMe Gen 4 Gaming M.2 Internal Solid State Hard Drive Memory Card, Maximum Speed, Thermal Control, MZ-V8P2T0B [/INST]",1. Brand: SAMSUNG
+43,how does two factor authentication work?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+how does two factor authentication work? [/INST]","Two-factor authentication, or 2FA, is a security process that requires users to provide two different authentication factors before accessing an account or system. This adds an extra layer of security to prevent unauthorized access, even if someone knows your password.
+
+The two factors can include something you know, such as a password or PIN, something you have, such as a physical token or a smartphone, or something you are, such as a fingerprint or facial recognition.
+
+For example, when logging into an account with 2FA, you might enter your password as the first factor, and then enter a code sent to your phone as the second factor. This way, even if someone knows your password, they won't be able to access your account without the second factor.
+
+2FA is becoming more common as a way to protect sensitive information, such as bank accounts, email accounts, and social media accounts. It's a simple and effective way to add an extra layer of security to your online accounts."
+44,"In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.
+
+a sudden temperature change","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+In relation to the given weather scenario, give some tips on how to adjust the travel plans with it.
+
+a sudden temperature change [/INST]","Sure, here are some tips for adjusting your travel plans when you experience a sudden temperature change:
+
+1. Check the weather forecast: Before you leave, make sure you have a good understanding of the weather conditions where you'll be traveling. You can check the forecast on various weather apps or websites to get an idea of what to expect.
+2. Pack appropriately: If you're traveling in an area where temperatures are much hotter or colder than you're used to, make sure you pack clothing and accessories that will keep you comfortable. You may need to bring extra layers, a light jacket, or a sweater to stay warm, or bring a hat, sunglasses, and sunscreen to protect yourself from the sun.
+3. Be flexible with your itinerary: If the weather changes unexpectedly during your trip, you may need to adjust your plans to accommodate the new conditions. For example, if you were planning to go on an outdoor hike and it suddenly becomes too hot, you may need to switch to an indoor activity or postpone the hike until the temperature cools down.
+4. Consider staying in a different location: If the weather is too extreme where you were planning to go, you may want to consider staying in a different location that has a more moderate climate. You can use travel apps or websites to find alternative destinations that are more suitable for your preferences.
+5. Be mindful of your health: Sudden changes in temperature can be uncomfortable and potentially harmful, especially if you're traveling with pre-existing health conditions. Make sure you stay hydrated, get plenty of rest, and take breaks as needed to avoid overheating or exhaustion.
+
+Remember, travel should be fun and enjoyable, so don't let a sudden temperature change ruin your plans. With a little bit of preparation and flexibility, you can still have a great trip!"
+45,Can a qualifying manager work remotely abroad for US employer for an year be eligible for Eb1-C while on h1-b,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Can a qualifying manager work remotely abroad for US employer for an year be eligible for Eb1-C while on h1-b [/INST]","Eligibility for EB1-C visa for a qualifying manager working remotely abroad for a US employer for an year while on H1-B visa would depend on several factors such as the manager's qualifications, experience, and the specific circumstances of the case. It is recommended to consult with an immigration attorney for guidance on the specific eligibility requirements for EB1-C visa."
+46,"Write a simple guide for uploading the bibliography database
+ on Overleaf.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Write a simple guide for uploading the bibliography database
+ on Overleaf. [/INST]","Sure, I'd be happy to help! Here's a simple guide for uploading a bibliography database on Overleaf:
+
+1. Open Overleaf and create a new document.
+2. Click on the ""Bibliography"" button on the top menu bar.
+3. Choose the ""BibTeX"" option from the dropdown menu.
+4. In the ""BibTeX"" window, select the ""BibTeX"" file that contains your bibliography. This file should have the "".bib"" extension.
+5. Click on the ""Convert BibTeX"" button to convert the BibTeX file into a BibLaTeX file.
+6. Click on the ""BibLaTeX"" button to compile your bibliography. This will create a separate file that lists all the references in your document.
+7. You can now use this bibliography file in your document by including the appropriate command in your document's preamble. For example, if your bibliography file is called ""references.bib"", you would include the following command at the beginning of your document:
+```
+\bibliographystyle{plainnat}
+\bibliography{references}
+```
+1. Compile your document to see your bibliography listed at the end.
+
+That's it! With these steps, you should be able to easily upload and use a bibliography database on Overleaf."
+47,I need to learn English could you help me and make a exercise,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I need to learn English could you help me and make a exercise [/INST]","Sure, I'd be happy to help you improve your English skills! Here are a few exercises that can help:
+
+1. Sentence completion: Write sentences that complete a given stem, such as ""I have a dog named \_\_\_\_\_\_\_\_\_\_\_\_\_\_.""
+2. Fill in the blanks: Read a passage with blanks, such as ""I enjoy \_\_\_\_\_\_\_\_\_\_\_\_\_\_ in the morning.""
+3. Conversation practice: Find a language exchange partner online or in person and practice having a conversation with them.
+4. Reading: Read articles, books, or news stories in English to improve your vocabulary and comprehension.
+5. Writing: Write short essays or stories in English to practice grammar and sentence structure.
+
+I hope these exercises help you improve your English skills!"
+48,What is the meaning of life?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What is the meaning of life? [/INST]","The meaning of life is a philosophical and personal question that has been debated throughout history by scholars, theologians, and thinkers. There is no one definitive answer that applies to everyone, as each person has their own beliefs, values, and experiences that shape their understanding of what gives life meaning and purpose. Some people may find meaning in spiritual or religious beliefs, while others may find it in relationships, personal achievements, or simply being content with their present moment. Ultimately, the meaning of life is a personal journey that each individual must embark on to discover what brings them fulfillment and satisfaction."
+49,"User : Hi dear 
+Agent : helo , can ai help you 
+User : plaes tell me about what frequency conscious of ai
+Agent : the conscious ai is a complex actually need specific information to provide about conscious.
+User : pleas tell me more about conscious if you know please let me know
+Agent : conscious is about made some result or decision is to hard if not have knowledge or prove with science.
+User : Please tell more about that.
+Agent : need a data scientist to provide decision because a different conscious human and artificial intelligence.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+User : Hi dear 
+Agent : helo , can ai help you 
+User : plaes tell me about what frequency conscious of ai
+Agent : the conscious ai is a complex actually need specific information to provide about conscious.
+User : pleas tell me more about conscious if you know please let me know
+Agent : conscious is about made some result or decision is to hard if not have knowledge or prove with science.
+User : Please tell more about that.
+Agent : need a data scientist to provide decision because a different conscious human and artificial intelligence. [/INST]","The concept of ""consciousness"" refers to a being's ability to perceive, reason, and act in the world, and has been a topic of debate and research in the fields of psychology, neuroscience, and artificial intelligence. In the context of artificial intelligence, the term ""conscious"" refers to a machine that can make decisions and take actions based on its own awareness and understanding of the environment.
+
+In order to develop an artificial intelligence that is conscious, researchers must take into account a variety of factors, including the machine's ability to perceive and understand the world, its ability to reason and make decisions, and its ability to adapt and learn over time. This requires a deep understanding of the underlying principles of perception, cognition, and learning, as well as a significant amount of data and training to enable the machine to develop the necessary skills and knowledge.
+
+One example of a conscious artificial intelligence is a decision support system that uses machine learning algorithms to analyze complex data and make recommendations based on the system's own understanding of the situation. These systems can take into account a wide range of factors, including historical data, current trends, and expert opinions, and can adapt and learn over time as new information becomes available.
+
+Overall, the development of conscious artificial intelligence is an ongoing and challenging area of research, but with advances in machine learning and cognitive science, it is becoming increasingly possible to create machines that can think and act like humans."
+50,What do the different octane values of gasoline mean?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What do the different octane values of gasoline mean? [/INST]","The octane value of gasoline indicates the fuel's ability to resist ignition. A higher octane value means it's more resistant to ignition and burns cleaner, producing fewer harmful emissions. It's typically used in higher-performance engines that require more power and fuel efficiency. Lower octane gasoline is used in standard cars and generally burns less efficiently, producing more emissions. It's also less expensive. The octane rating is usually indicated on the gas pump nozzle or on the fuel cap, and it's typically rated from 87 to 93."
+51,"In order to launch a token for a Defi project, I want to sell some tokens privately to early investors and then add it to a launchpad. let me know what can I do with my smart contract? Should I create a presale contract separate from main contract?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+In order to launch a token for a Defi project, I want to sell some tokens privately to early investors and then add it to a launchpad. let me know what can I do with my smart contract? Should I create a presale contract separate from main contract? [/INST]","To launch a token for a Defi project, you can use a smart contract to define the rules and regulations for the sale of tokens. You can create a separate presale contract that outlines the terms and conditions for the private sale of tokens to early investors. The presale contract should include details such as the number of tokens to be sold, the price per token, and any restrictions or limitations on the sale.
+
+Once the presale is complete, you can then add the tokens to a launchpad, which is a platform that allows you to list and sell your tokens to the public. The launchpad smart contract should include details such as the number of tokens available for sale, the price per token, and any additional features such as a vesting period or a liquidity pool.
+
+It is important to consult with a legal and financial expert to ensure that your smart contract complies with all relevant regulations and laws. Additionally, you may want to consider using a third-party auditor to review your smart contract and ensure that it is secure and free from vulnerabilities."
+52,Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Write a code block in Markdown containing an example of a code block in Markdown. Don't forget those quadruple backticks. [/INST]","Sure, here's an example of a code block in Markdown:
+```
+```
+
+This creates a block of code that can be used to display syntax highlighting or code formatting. You can replace the text inside the quotes with your own code."
+53,What's the current date?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What's the current date? [/INST]","Sure! To find the current date, you can look at your calendar, use a digital assistant on your phone or computer, or simply ask me. I'd be happy to help! Is there anything else you'd like to know?"
+54,Please provide us with a list of the best conservation starter questions related to the weather.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Please provide us with a list of the best conservation starter questions related to the weather. [/INST]","Sure, here's a list of conservation starter questions related to the weather:
+
+1. How does climate change affect the frequency and severity of extreme weather events?
+2. What are the potential long-term impacts of climate change on ecosystems and wildlife?
+3. How can we reduce greenhouse gas emissions to slow down climate change and mitigate its effects?
+4. What are some effective ways to adapt to changes in the climate and reduce the impact of extreme weather?
+5. How can we promote sustainable energy and transportation practices to reduce our carbon footprint?
+6. What are the potential benefits of investing in renewable energy and energy efficiency technologies?
+7. How can we educate the public about the importance of climate action and inspire them to take action?
+8. What are some challenges and obstacles to implementing climate policies and how can we overcome them?
+9. How can we ensure that climate action is equitable and takes into account the needs and interests of marginalized communities?
+10. How can we measure progress towards climate goals and evaluate the effectiveness of climate policies?"
+55,List pros and cons of lowering the capabilities of my ears by listening to loud music (70-75db) in order to withstand the incredibly loud sound of screaming kids at school.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+List pros and cons of lowering the capabilities of my ears by listening to loud music (70-75db) in order to withstand the incredibly loud sound of screaming kids at school. [/INST]","When listening to loud music, it can potentially cause hearing damage over time. While temporarily increasing your ear's ability to withstand loud noises, it could also lead to permanent damage if the sound levels are too high or prolonged. It's generally better to use noise-cancelling headphones or earplugs to protect your hearing while in noisy environments. Additionally, it's important to be aware of the potential negative effects of loud noise on hearing, and take steps to protect yourself and others when necessary."
+56,What is the error with this code: public int getnumber(){ int number = 0},"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What is the error with this code: public int getnumber(){ int number = 0} [/INST]","The error with this code is that the variable `number` is declared and initialized inside the method `getnumber`, but it is not returned from the method. To fix the error, you can return the value of the `number` variable from the method using the `return` statement like this:
+```csharp
+public int getNumber() {
+    int number = 0;
+    return number;
+}
+```
+This will ensure that the value of the `number` variable is returned when the `getNumber()` method is called."
+57,Explain the difference between sets and lists in Python.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Explain the difference between sets and lists in Python. [/INST]","In Python, both sets and lists are data structures used to store and organize collections of items. However, there are some key differences between them:
+
+* Order: Lists store items in a specific order, meaning that the items are stored in the order in which they were added to the list. In contrast, sets do not store the order of items, and items are added to the set based on their uniqueness.
+* Duplicates: Lists can store duplicates of items, meaning that you can have the same item appear multiple times in the list. Sets, on the other hand, cannot store duplicates, and only unique items can be added to the set.
+* Data types: By default, items in a list can be of any data type (e.g. string, integer, float, etc.), while items in a set must be hashable (e.g. integers, strings, tuples, etc.).
+* Searching: Lists can be searched using the index() method, which returns the index of the first occurrence of the specified item. Sets can be searched using the in operator, which returns True if the specified item is in the set.
+
+Overall, the choice between using lists and sets depends on the specific needs of your program. If you need to maintain the order of items or allow duplicates, a list may be the better choice. If you need to store unique items and don't need to maintain order, a set may be more appropriate."
+58,"I heard something about a number of British folks being deceived into believing that spaghetti grows on trees. Is this real? If so, how were they able to be drawn into a deception like this?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I heard something about a number of British folks being deceived into believing that spaghetti grows on trees. Is this real? If so, how were they able to be drawn into a deception like this? [/INST]","I'm not aware of any scientific evidence that spaghetti grows on trees. However, there have been instances of people being deceived by internet hoaxes and urban legends. These deceptions often involve sharing false or exaggerated information through word-of-mouth, social media, or other forms of communication. It's important to be critical of information and to verify its accuracy before accepting it as true. It's also important to be cautious about sharing information with others, particularly if you're unsure of its accuracy."
+59,"Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Mick pays his teacher $800 for 40 lessons worth 2 hours each. If this will be all he is going to pay for his lessons, how much did he receive? [/INST]","To calculate the total cost of the lessons, we need to multiply the number of lessons by the cost per lesson. 
+
+Total cost = Number of lessons x Cost per lesson 
+Total cost = 40 x $2 
+Total cost = $800 
+
+Therefore, Mick received a total of $800 for his lessons."
+60,"Solve the given Sudoku puzzle.
+
+The Sudoku puzzle is:
+|1|  |5|  |  |  |  |8|  |
+|  |  |  |  |  |3|  |6|4|
+|8|3|4|6|7|  |9|  |  |
+|2|9|1|  |  |8|3|7|6|
+|  |  |6|  |  |9|8|1|  |
+|  |  |  |  |  |2|  |  |  |
+|  |2|  |  |9|7|6|  |  |
+|5|4|  |  |  |  |  |9|8|
+|6|1|  |  |  |5|4|3|7|","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Solve the given Sudoku puzzle.
+
+The Sudoku puzzle is:
+|1|  |5|  |  |  |  |8|  |
+|  |  |  |  |  |3|  |6|4|
+|8|3|4|6|7|  |9|  |  |
+|2|9|1|  |  |8|3|7|6|
+|  |  |6|  |  |9|8|1|  |
+|  |  |  |  |  |2|  |  |  |
+|  |2|  |  |9|7|6|  |  |
+|5|4|  |  |  |  |  |9|8|
+|6|1|  |  |  |5|4|3|7| [/INST]","Sure, I can help you solve the Sudoku puzzle. Here are the steps you can follow:
+
+1. Fill in the puzzle with numbers from 1 to 9.
+2. Use process of elimination to figure out where each number belongs.
+3. If you get stuck, try to think of possible numbers that could go where you have a blank space.
+4. Eliminate any numbers that are not possible based on the clues in the puzzle.
+5. Keep going until all the spaces are filled in.
+
+If you want me to solve it for you, I'd be happy to do so. However, the puzzle is meant to be a fun brain teaser, so it might be more satisfying to try and solve it on your own!"
+61,How do I make escargot?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+How do I make escargot? [/INST]","To make escargot, you will need the following ingredients:
+
+* 1 pound of fresh snails
+* 1/2 cup of unsalted butter
+* 1/4 cup of all-purpose flour
+* 2 cloves of garlic, minced
+* 1/2 cup of milk
+* 1/4 cup of grated Parmesan cheese
+* Salt and pepper to taste
+
+Here are the steps to make escargot:
+
+1. Clean the snails and remove their shells.
+2. In a saucepan, melt the butter over medium heat.
+3. Add the flour and whisk until smooth.
+4. Add the minced garlic and cook for 1 minute.
+5. Slowly pour in the milk, whisking constantly, until the sauce is smooth and thickened.
+6. Add the grated Parmesan cheese and stir until well combined.
+7. Season the sauce with salt and pepper to taste.
+8. Add the snails to a baking dish and pour the sauce over them.
+9. Bake in a preheated oven at 375°F for 10-15 minutes, or until the escargot is cooked through.
+
+Serve the escargot hot with crusty bread or over pasta. Enjoy!"
+62,"Write a symphony concert review, discussing the orchestra's performance and overall audience experience.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Write a symphony concert review, discussing the orchestra's performance and overall audience experience. [/INST]","Sure, here is a symphony concert review:
+
+Title: A Spectacular Symphony Experience
+
+The concert was held at the local concert hall and the orchestra delivered an outstanding performance. From the moment the lights went down, the energy in the room was electric. The musicians took their seats and the audience held their breath in anticipation.
+
+The orchestra started with a traditional overture, and it was clear that the musicians were in perfect tune. The sound was rich and full, with each instrument contributing its unique timbre to the overall sound. The conductor's baton moved gracefully, guiding the musicians through the complexities of the music.
+
+The first half of the concert featured a contemporary piece, which showcased the orchestra's versatility. The musicians played with passion and precision, bringing the music to life. The piece was challenging, but the orchestra rose to the occasion, delivering a breathtaking performance.
+
+The second half of the concert featured a classic symphony, which is always a crowd pleaser. The orchestra played with emotion and power, delivering a stunning rendition of the music. The audience was on the edge of their seats, cheering and clapping along with the musicians.
+
+The overall audience experience was exceptional. The concert hall was beautifully decorated, with comfortable seating and excellent acoustics. The musicians were highly skilled and delivered a masterful performance. The conductor's interpretation of the music was thought-provoking and inspiring.
+
+In conclusion, this symphony concert was a truly memorable experience. The orchestra delivered a spectacular performance, showcasing their talent and passion for music. The audience was thoroughly engaged and left feeling inspired and uplifted. It was a truly unforgettable evening of music."
+63,"cost of fuel for a 14 mile journey in a car with 48mpg, fuel costs 625 pence per gallon and there is heavy traffic for half the journey","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+cost of fuel for a 14 mile journey in a car with 48mpg, fuel costs 625 pence per gallon and there is heavy traffic for half the journey [/INST]","Sure! To calculate the cost of fuel for a 14 mile journey in a car with 48mpg and fuel costs 625 pence per gallon, you would first need to know how many gallons of fuel your car uses to travel 14 miles."
+64,"In this math problem, we are asked to figure out the percentage of total profits that are made in each quarter. They are 90% in the first quarter, 92% in the second quarter, 81% in the third quarter and 88% in the fourth quarter. What is the total profit percent over a period of time, based upon these quarters?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+In this math problem, we are asked to figure out the percentage of total profits that are made in each quarter. They are 90% in the first quarter, 92% in the second quarter, 81% in the third quarter and 88% in the fourth quarter. What is the total profit percent over a period of time, based upon these quarters? [/INST]","To find the total profit percentage over the period of time, we need to calculate the average of the profit percentages for each quarter. Here's how to do it:
+
+1. Add up the profit percentages for each quarter:
+
+90% + 92% + 81% + 88% = 351%
+
+2. Divide the sum by the number of quarters (4) to get the average:
+
+351% / 4 = 87.75%
+
+So, the total profit percentage over the period of time is 87.75%."
+65,"I want to eventually become a plant/manufacturing/production manager, and eventually a Chief Operating Officer. What sort of experience and post-graduate education path would you recommend? Please provide non-obvious and atypical career paths leading to such positions, on top of the classic ones.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I want to eventually become a plant/manufacturing/production manager, and eventually a Chief Operating Officer. What sort of experience and post-graduate education path would you recommend? Please provide non-obvious and atypical career paths leading to such positions, on top of the classic ones. [/INST]","Becoming a plant/manufacturing/production manager and eventually a Chief Operating Officer requires a combination of skills and experience. Here are some non-obvious and atypical career paths that could lead to such positions:
+
+1. Operations Analyst: An Operations Analyst is responsible for analyzing and optimizing the company's operations to increase efficiency and productivity. They work closely with plant managers and production teams to identify bottlenecks and develop solutions to improve production processes. They may also work on process improvement projects and develop data-driven strategies to streamline operations.
+2. Lean Six Sigma Black Belt: A Lean Six Sigma Black Belt is an expert in improving business processes and driving operational excellence. They use statistical methods and tools to identify and eliminate waste, optimize processes, and improve quality. They work closely with plant managers and production teams to identify and implement process improvements.
+3. Supply Chain Manager: A Supply Chain Manager is responsible for managing the flow of goods and services between the company and its suppliers, customers, and partners. They work closely with plant managers and production teams to ensure that materials and components are delivered on time and meet the company's quality standards.
+4. IT Project Manager: An IT Project Manager is responsible for planning and executing IT projects, including software implementations, hardware upgrades, and network infrastructure upgrades. They work closely with plant managers and production teams to ensure that technology solutions are integrated into the production process seamlessly.
+5. Operations Research Analyst: An Operations Research Analyst is responsible for applying mathematical and analytical methods to optimize business processes and operations. They work closely with plant managers and production teams to analyze data, identify trends, and develop strategies to improve operations.
+
+In addition to these non-obvious and atypical career paths, a classic path to becoming a plant/manufacturing/production manager and eventually a Chief Operating Officer would be to earn a Bachelor's or Master's degree in Industrial Engineering or Operations Management. These programs provide a strong foundation in operations management, process improvement, and business strategy. You can also consider obtaining professional certifications, such as the Certified Operations Management Professional (COMP) or the Certified Manufacturing Operations Professional (CMOM), to demonstrate your expertise in operations management."
+66,"Hi, I'd like to learn to bake challah. Can you give me a recipe for that?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Hi, I'd like to learn to bake challah. Can you give me a recipe for that? [/INST]","Of course! Here's a recipe for a classic challah:
+
+Ingredients:
+
+* 4 cups all-purpose flour
+* 2 tablespoons granulated sugar
+* 2 1/4 teaspoons active dry yeast
+* 2 teaspoons salt
+* 1 1/2 cups warm water
+* 1/4 cup vegetable oil
+* 2 large eggs, room temperature
+
+Instructions:
+
+1. In a large mixing bowl, whisk together the flour, sugar, yeast, and salt until well combined.
+2. In a separate bowl, mix together the warm water, vegetable oil, and eggs.
+3. Pour the wet ingredients into the dry ingredients and stir until a rough dough forms.
+4. Turn the dough out onto a lightly floured surface and knead for about 10 minutes, until the dough becomes smooth and elastic.
+5. Place the dough in a lightly oiled bowl, cover with plastic wrap, and let it rise in a warm place for about 1 hour, or until it has doubled in size.
+6. Once the dough has risen, punch it down and shape it into a loaf. Place the loaf in a lightly greased 9x5 inch loaf pan and let it rise again for about 30 minutes, or until it has nearly doubled in size.
+7. Preheat the oven to 375°F (190°C). Bake the challah for about 30-35 minutes, or until it is golden brown and sounds hollow when tapped on the bottom.
+8. Let the challah cool for a few minutes before slicing and serving. Enjoy!"
+67,"I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari? [/INST]","Sure, Kubdari is a popular Georgian dish consisting of a layer of dough filled with cheese, egg, and various other ingredients such as minced meat, onion, tomato, and spices. Here's a simple recipe to try:
+
+Ingredients:
+
+* 300g all-purpose flour
+* 2 teaspoons of active dry yeast
+* 2 tablespoons of sugar
+* 1 teaspoon of salt
+* 1/2 cup of warm water
+* 1/2 cup of milk
+* 1/4 cup of melted butter
+* 1/2 pound of cheese, crumbled
+* 2 eggs
+* 1/2 pound of ground meat (such as beef or pork)
+* 1 onion, diced
+* 2 tomatoes, diced
+* Salt and pepper, to taste
+* Olive oil, for cooking
+
+Instructions:
+
+1. In a large mixing bowl, combine the flour, yeast, sugar, and salt.
+2. Add the warm water, milk, and melted butter to the mixture and mix until a dough forms.
+3. Knead the dough on a floured surface until it becomes smooth and elastic.
+4. Place the dough in a bowl and cover with a towel. Let it rise in a warm place for about an hour.
+5. While the dough is rising, prepare the filling. Cook the ground meat in a pan with some olive oil until browned. Add the onion, tomato, salt, and pepper to the pan, and cook until the onion is soft and translucent.
+6. In a separate bowl, whisk together the eggs, cheese, and a pinch of salt.
+7. Once the dough has risen, divide it into four equal pieces. Roll each piece into a circle, and place a spoonful of the filling in the center of the circle.
+8. Fold the edges of the circle towards the center, pinching the edges to seal the dough.
+9. Place the kubdari on a baking sheet lined with parchment paper. Brush them with some olive oil and let them rise for another 30 minutes.
+10. Preheat the oven to 375°F (190°C). Bake the kubdari for about 20 minutes, or until they are golden brown and the cheese is melted.
+11. Serve the kubdari warm and enjoy!
+
+I hope this recipe helps you make some delicious kubdari for your guests. Let me know if you need any other recipes or if you have any questions!"
+68,The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+The wireless Internet signal in my house is weak in some rooms.  How can I improve my Wi-Fi coverage? [/INST]","There are several ways to improve Wi-Fi coverage in your house, including:
+
+1. Placing your router in a central location: The router should be placed in a central location where it can reach all the rooms in your house. Avoid placing it in a corner or behind a wall, as this can weaken the signal.
+
+2. Using a Wi-Fi extender: A Wi-Fi extender can help to extend the range of your wireless signal, allowing it to reach rooms that are farther away from the router.
+
+3. Upgrading your router: If your router is old, it may not be capable of providing strong Wi-Fi coverage. Upgrading to a newer, more powerful router can help to improve your Wi-Fi signal.
+
+4. Changing your router's antenna: Some routers come with adjustable antennas that you can use to direct the Wi-Fi signal in the direction you need it to go.
+
+5. Using a mesh network: A mesh network is a type of Wi-Fi network that uses multiple routers to provide coverage. Each router communicates with the others, allowing the network to provide strong Wi-Fi coverage throughout your house."
+69,What year was the Yamato Battleship built?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What year was the Yamato Battleship built? [/INST]",The Yamato Battleship was built in 1941. It was a flagship battleship of the Imperial Japanese Navy during World War II and the largest battleship ever built.
+70,"You are given a sentence in first-order logic. Translate it into natural language.
+
+∃x∀y(soldier(x)→general(x,y))","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+You are given a sentence in first-order logic. Translate it into natural language.
+
+∃x∀y(soldier(x)→general(x,y)) [/INST]","The translation of the given sentence in natural language is: ""For all soldiers x, there exists a general y such that x is under the command of general y."""
+71,What are some toys I can buy my kids for imaginative play?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What are some toys I can buy my kids for imaginative play? [/INST]","Toys that are great for imaginative play for kids include building blocks, dollhouses or action figures, puzzles, craft supplies, dress-up clothes, stuffed animals, and dolls. Consider buying open-ended toys that allow for creativity and exploration, such as magnetic tiles or a sandbox set, to encourage imaginative play. It's also important to consider your child's interests and hobbies when choosing toys to enhance their imaginative play."
+72,"Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.
+
+""This is the best cheat-sheet paper that I've found in a LONG time.""","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Assess the sentiment of the given tweet and categorize it as Positive, Negative, or Neutral.
+
+""This is the best cheat-sheet paper that I've found in a LONG time."" [/INST]","Positive.
+
+To properly assess the sentiment of a tweet, it's important to consider the specific words used and the context in which they appear. In this case, the phrase ""best cheat-sheet paper"" suggests a positive sentiment, and the word ""long time"" implies that the speaker has been searching for a good cheat-sheet paper for some time. Overall, the tweet seems to be positive in sentiment."
+73,What are the best exercises for beginners?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What are the best exercises for beginners? [/INST]","When it comes to exercise, the best activities for beginners will vary depending on individual fitness levels, goals, and personal preferences. However, some low-impact exercises that are good for beginners include walking, swimming, cycling, yoga, tai chi, and bodyweight exercises like push-ups and squats. These activities can help improve cardiovascular fitness, strength, flexibility, and balance without putting too much strain on the body. It's also a good idea to start with shorter sessions and gradually increase the duration and intensity as you become more comfortable with the exercises. Consulting with a fitness professional can also be helpful in designing a personalized exercise program that's safe and effective for your individual needs."
+74,"Write a response that disagrees with the following post: ""Technology is everything that doesn't work yet.""","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Write a response that disagrees with the following post: ""Technology is everything that doesn't work yet."" [/INST]","While technology can certainly have its challenges and issues, it has also brought about numerous benefits and advancements that have greatly improved our lives. From medical treatments to communication tools to transportation systems, technology has transformed the way we live and interact with each other. It's important to acknowledge the potential problems with technology, but we should also celebrate its many contributions to society."
+75,which second messenger molecule acts on the endoplasmic reticulum to release calcium ions,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+which second messenger molecule acts on the endoplasmic reticulum to release calcium ions [/INST]","The second messenger molecule that acts on the endoplasmic reticulum to release calcium ions is inositol triphosphate (IP3). When a cell is activated, it produces IP3, which binds to receptors on the endoplasmic reticulum, causing it to release calcium into the cytoplasm. This release of calcium is critical for many cellular processes, such as muscle contraction and nerve transmission."
+76,"Could you provide a brief summary of the book ""Fooled by Randomness"", by Nassim Nicholas Taleb? Please provide a few paragraphs with the summary and the main points discussed in the book. 
+How well the book was accepted and was there any negative or positive critic of the work presented there?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Could you provide a brief summary of the book ""Fooled by Randomness"", by Nassim Nicholas Taleb? Please provide a few paragraphs with the summary and the main points discussed in the book. 
+How well the book was accepted and was there any negative or positive critic of the work presented there? [/INST]","""Fooled by Randomness"" by Nassim Nicholas Taleb is a book that discusses the concept of the black swan and its impact on financial markets and decision-making. The book argues that the traditional statistical and probabilistic models used in finance and economics are inadequate for predicting rare and unexpected events, such as the 2008 financial crisis, the stock market crash of 1987, and the 9/11 terrorist attacks. Taleb proposes an alternative approach, called antifragility, which involves embracing uncertainty and chaos as opportunities for growth and adaptation.
+
+The main points discussed in the book include the limitations of traditional statistical models, the concept of the black swan, the importance of diversity and redundancy in decision-making, and the potential benefits of embracing uncertainty and chaos. Taleb argues that the traditional models used in finance and economics are based on a flawed assumption that the future is predictable and that randomness can be measured and controlled. He suggests that instead of trying to predict the future, we should focus on building systems that can adapt and thrive in the face of uncertainty.
+
+The book was widely accepted and received positive reviews for its insightful and thought-provoking arguments. Many readers praised the book for its ability to challenge traditional ways of thinking about finance and economics, and for its practical suggestions for building more resilient and adaptable systems. Some critics, however, accused the book of oversimplifying complex issues and of presenting an overly optimistic view of the potential benefits of embracing uncertainty. Overall, ""Fooled by Randomness"" remains a highly influential and influential book in the fields of finance and economics, and continues to inspire readers and thinkers around the world."
+77,How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step. [/INST]","The number of snowflakes that fall during a typical winter can vary greatly depending on several factors such as location, temperature, and atmospheric conditions. In general, colder regions tend to experience more snowfall, and warmer regions may see very little snow or no snowfall at all. 
+
+To get a rough estimate of how many snowflakes fall during a typical winter, we can consider an average of 10 inches of snowfall per year in colder regions. However, this is just a rough estimate as the actual number of snowflakes can vary greatly depending on the specific weather conditions. 
+
+Additionally, it's important to note that not all snowfall is made up of individual snowflakes. Some snowfall is made up of snow melting and refreezing on branches and other surfaces, which can cause a significant amount of snow buildup without actually increasing the number of snowflakes on the ground. 
+
+Overall, the number of snowflakes that fall during a typical winter can vary greatly, and it's difficult to provide a precise estimate without taking into account the specific weather conditions in a particular region."
+78,what is the color of mars,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+what is the color of mars [/INST]","The color of Mars is reddish-brown due to the iron oxide, or rust, on its surface."
+79,"Rewrite the given text and correct grammar, spelling, and punctuation errors.
+
+If you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me!","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Rewrite the given text and correct grammar, spelling, and punctuation errors.
+
+If you'd told me year ago that today I would finish a marathon, I would of laughed. Your support had a huge affect on me! [/INST]","If you had told me a year ago that I would finish a marathon today, I would have laughed. Your support had a huge effect on me!"
+80,"Given the following implementation, please tell me what are the technologies involved in the process and present the relevant keywords in a suitable format. The implementation: In an app for an online fast fashion e-commerce platform, the user uploads a video in which the whole body of the user is within frame and the user turns 360 degree. Using the data from the video, the app reconstructs a 3d avatar which is shaped accurately by the measurements of the user. The avatar has almost the same face and hairstyle as the user. In the app there are also 3D clothes that can be 'tried on' by the avatar, and the avatar can also do different poses. Suitable outfits are recommended based on the measurements of the avatar (e.g. height, length of limbs). Similar items from different fashion brands are suggested to the user based on their previous choice of fashion items.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Given the following implementation, please tell me what are the technologies involved in the process and present the relevant keywords in a suitable format. The implementation: In an app for an online fast fashion e-commerce platform, the user uploads a video in which the whole body of the user is within frame and the user turns 360 degree. Using the data from the video, the app reconstructs a 3d avatar which is shaped accurately by the measurements of the user. The avatar has almost the same face and hairstyle as the user. In the app there are also 3D clothes that can be 'tried on' by the avatar, and the avatar can also do different poses. Suitable outfits are recommended based on the measurements of the avatar (e.g. height, length of limbs). Similar items from different fashion brands are suggested to the user based on their previous choice of fashion items. [/INST]","The technologies involved in the process are computer vision, machine learning, 3D modeling, and e-commerce platform. The relevant keywords are:
+
+* Computer vision: This technology is used to analyze and interpret the video footage to extract information about the user's body measurements and create a 3D avatar.
+* Machine learning: This technology is used to learn from previous data and make recommendations based on the measurements of the avatar and the user's previous choice of fashion items.
+* 3D modeling: This technology is used to create the 3D avatar and the clothes that can be 'tried on' by the avatar.
+* E-commerce platform: This is the platform where the user can interact with the app and make purchases."
+81,Give me the list of top 100 tech categories,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Give me the list of top 100 tech categories [/INST]","Sure, here are the top 100 tech categories:"
+82,What type of Rifle is an AK47?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What type of Rifle is an AK47? [/INST]","An AK-47 is an assault rifle, developed by Mikhail Kalashnikov in 1947. It is a fully-automatic, magazine-fed firearm, which has become widely used by armies around the world. The AK-47 is known for its reliability and robustness, as well as its simplicity and ease of use. It has a distinctive appearance, with a wooden stock, a cylindrical body, and a banana-shaped magazine."
+83,"Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.
+
+Programming for Everybody (Getting Started with Python)","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Design a syllabus for the given course. Students should be given a list of the chapters with brief explanations of each chapter's purpose.
+
+Programming for Everybody (Getting Started with Python) [/INST]","Sure, here is a suggested syllabus for the course ""Programming for Everybody (Getting Started with Python)"":
+
+1. Introduction to programming: This chapter will cover the basics of programming, including the history of programming and the basics of computer science.
+2. Introduction to Python: This chapter will cover the basic syntax and structure of the Python programming language, including data types, variables, and operators.
+3. Input and Output: This chapter will cover how to read input from the user and display output on the screen using Python.
+4. Control structures: This chapter will cover the basic control structures in Python, including if-else statements, loops, and branching statements.
+5. Functions: This chapter will cover how to define and use functions in Python, including how to pass arguments and return values.
+6. Data Structures: This chapter will cover the basic data structures in Python, including lists, tuples, and dictionaries.
+7. Object-Oriented Programming: This chapter will cover the basics of object-oriented programming in Python, including classes and objects.
+8. File I/O: This chapter will cover how to read and write data to files using Python.
+9. Error Handling: This chapter will cover how to handle errors and exceptions in Python.
+10. Final project: In the final project, students will apply the concepts they have learned throughout the course to create a program of their choice.
+
+Each chapter will include a variety of exercises and assignments to help students reinforce their understanding of the material."
+84,List some of the top real estate marketing words to add value to the listing and engage more potential buyers.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+List some of the top real estate marketing words to add value to the listing and engage more potential buyers. [/INST]","Sure, here are some top real estate marketing words that can help add value to the listing and engage more potential buyers:
+
+1. ""Spacious"" - Use this word to describe rooms or outdoor spaces that are larger than average.
+2. ""Open floor plan"" - Highlight the ease of movement and flow within the home with an open-concept design.
+3. ""Modern"" - This word suggests that the home is current and up-to-date.
+4. ""Eco-friendly"" - If the home has sustainable or energy-efficient features, this is a popular trend with buyers.
+5. ""Garden"" - Use this word to describe a backyard or front yard oasis.
+6. ""View"" - Highlight any attractive outdoor views or vistas from the home.
+7. ""Kitchen"" - This room is often a selling point, so use descriptive words like ""gourmet"" or ""updated"" to showcase it.
+8. ""Bedrooms"" - Use this word to highlight the number of bedrooms and their sizes.
+9. ""Bathrooms"" - The number of bathrooms can be a major selling point, so highlight the number and their features.
+10. ""Investment opportunity"" - If the property is located in a desirable neighborhood or has potential for growth, use this word to highlight its potential as a good investment."
+85,"Change the response to have a more empathic tone in the chat.
+
++ How are you doing?
+- Fine, I had a bunch of problems today.
++ What kind of problems?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Change the response to have a more empathic tone in the chat.
+
++ How are you doing?
+- Fine, I had a bunch of problems today.
++ What kind of problems? [/INST]",+ I'm sorry to hear that you've been going through some challenges today. Can you tell me more about what's been going on?
+86,is a bannana a fruit or a herb,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+is a bannana a fruit or a herb [/INST]","A banana is generally considered a fruit. It belongs to the plant family Musaceae, and its edible fruit develops from the ovary of the flowering plant. However, some herbalists may classify banana as a herb due to its medicinal properties."
+87,Implement a regular expression in Python to validate an email address.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Implement a regular expression in Python to validate an email address. [/INST]","To implement a regular expression in Python to validate an email address, you can use the `re` module and the following pattern:
+
+```
+import re
+
+pattern = r""[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}""
+
+def is_valid_email(email):
+    return re.match(pattern, email) is not None
+
+# Test the function
+print(is_valid_email(""test@example.com""))  # True
+print(is_valid_email(""invalid_email@example""))  # False
+```
+
+This pattern matches most common email formats, but keep in mind that email validation is a complex task and no regex can cover all possible cases. This regex will only validate the syntax of the email address, it won't check if the email address is actually reachable or not.
+
+Note: Regular expressions can be powerful tools, but they should be used with caution, as they can easily become complex and difficult to understand or maintain. Make sure to test your regular expressions thoroughly and consider using a library or tool to simplify the process."
+88,Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges? [/INST]","As a world-famous chef, my signature dish would be a ""Symphony of the Sea"". It's a medley of sustainably sourced seafood, carefully crafted to create a harmonious balance of flavors and textures. The dish features poached lobster tail, seared scallops, and ceviche made with fresh, locally caught fish. The dish is served on a bed of saffron-infused rice with a drizzle of citrus-infused reduction and a sprinkle of microgreens for a burst of freshness. Each ingredient brings its unique flavor profile to the dish, creating a symphony of tastes that dance on your palate."
+89,"Provide me with a list of 10 names from various cultures that mean love, care, and/or empathy.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Provide me with a list of 10 names from various cultures that mean love, care, and/or empathy. [/INST]","Sure, here are ten names from various cultures that mean love, care, and/or empathy:"
+90,"For a quick and efficient office workout, suggest a short routine.","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+For a quick and efficient office workout, suggest a short routine. [/INST]","Sure! A quick and efficient office workout routine can include a combination of strength training exercises, cardio exercises, and stretching. Here is a short routine that you can do at your desk:
+
+1. Squats: Stand with your feet shoulder-width apart and squat down to a chair or desk. Push back up to standing and repeat.
+2. Push-ups: Get into a plank position with your hands shoulder-width apart and lower your body until your chest nearly touches the ground before pushing back up.
+3. Leg Raises: Lie down on your back with your legs extended and raise them until they're perpendicular to the ground before lowering them back down.
+4. Arm Circles: Sit or stand with your arms extended and make forward circles with your arms for 10-15 seconds. Then reverse the direction for another 10-15 seconds.
+5. Seated Stretch: Sit at your desk and stretch your neck, shoulders, back, and arms.
+
+Make sure to take breaks throughout the day to stretch and move around to avoid sitting for long periods. Remember to always consult with a healthcare professional before starting any new exercise routine."
+91,"In what genres does the given movie or series fall?
+
+Manifest","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+In what genres does the given movie or series fall?
+
+Manifest [/INST]","To find out the genre of the TV series ""Manifest"", you can check its IMDb page or other movie and TV show databases, where it is typically categorized under Drama and Science Fiction genres."
+92,what is the recommended pattern for creating games in godot,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+what is the recommended pattern for creating games in godot [/INST]","When creating games in Godot, the recommended pattern is to use the node-based scene tree to structure your game objects and interactions. Start by defining your game's basic elements, such as characters, levels, and gameplay mechanics. Then, use Godot's built-in physics and animation features to bring your game to life. Additionally, you can use Godot's scripting language, GDScript, to implement custom logic and behavior in your game. Finally, test and refine your game until it is polished and functional."
+93,"Give some examples of what people usually say in the given social situation.
+
+when someone arrives safely","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Give some examples of what people usually say in the given social situation.
+
+when someone arrives safely [/INST]","Sure, when someone arrives safely in a social situation, people usually say things like:"
+94,"Based on the given keywords, write a review of a restaurant.
+
+Name: Pizzeria
+good prices, quiet place, tasty, nice staff","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Based on the given keywords, write a review of a restaurant.
+
+Name: Pizzeria
+good prices, quiet place, tasty, nice staff [/INST]","When it comes to dining out, finding the perfect balance between taste, price, and ambiance can be a challenge. That's why I'm excited to share my recent experience at Pizzeria, a restaurant that truly exceeded my expectations in all three areas.
+
+First, let's talk about the prices. Pizzeria offers some of the best value for money that I've found in a long time. The pizzas are huge and delicious, and the prices are very reasonable, making it an excellent choice for a casual meal with friends or family.
+
+Next, let's talk about the ambiance. Pizzeria is a quiet and cozy place, perfect for a romantic dinner or a night out with friends. The lighting is warm and inviting, and the decor is tastefully done, creating a relaxed and comfortable atmosphere.
+
+Finally, let's talk about the food. Pizzeria is known for its tasty pizza, and I have to say that it lives up to the hype. The crust is crispy on the outside and chewy on the inside, and the toppings are fresh and flavorful. The staff is also very nice, making the experience even more enjoyable.
+
+Overall, I highly recommend Pizzeria to anyone looking for a great meal at a reasonable price in a quiet and cozy setting."
+95,Make a slide to introduce Cantonese,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Make a slide to introduce Cantonese [/INST]","If you want to make a slide to introduce Cantonese, you will need a slide projector, a computer or laptop, and a presentation software such as PowerPoint or Prezi. You will also need access to some visual aids such as images or videos that can help you to illustrate the key points about Cantonese culture, language, and cuisine.
+
+Once you have your presentation materials ready, you can create a slide by using the slide projector software to add text, images, and other multimedia elements to your slides. Here are the general steps to create a slide presentation about Cantonese:
+
+1. Choose a suitable slide layout: There are many different slide layouts available in presentation software, but for a Cantonese introduction, you may want to choose a slide with a clear title and a background image that represents Cantonese culture or cuisine.
+2. Add a title: Enter a clear and concise title for your slide, such as ""Cantonese Cuisine"" or ""Discovering Cantonese Culture"".
+3. Add subheadings: You can use subheadings to break up your presentation and make it easier to follow. For example, you might include subheadings such as ""History of Cantonese"", ""Cantonese Cuisine"", ""Cantonese Language"", and ""Cantonese Culture"".
+4. Add images: Use images to help illustrate the key points about Cantonese culture and cuisine. You can use photographs of Cantonese dishes, landscapes, or cultural traditions to add visual interest to your presentation.
+5. Add multimedia elements: You can add other multimedia elements to your slides, such as videos or audio clips, to make your presentation more engaging.
+6. Practice your presentation: Once you have created your slide presentation, practice delivering it to make sure that you are comfortable with the content and the timing.
+
+Remember to keep your slide presentation concise, clear, and engaging to effectively introduce Cantonese culture and cuisine to your audience."
+96,What are different drawers I should have for clothes?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+What are different drawers I should have for clothes? [/INST]","For clothes, it is recommended to have several drawers to organize your clothes by type, such as shirts, pants, dresses, and undergarments. It is also helpful to have separate drawers for seasonal clothing, as well as for items that need to be kept dry, such as swimwear or rain gear. Some people also like to have a drawer specifically for formal or business attire. The exact number of drawers you need will depend on the number of items you own and the amount of storage space you have available."
+97,"I am making mayonnaise, it was starting to thicken but now it has become runny and liquid again, is there any way to salvage it?","<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+I am making mayonnaise, it was starting to thicken but now it has become runny and liquid again, is there any way to salvage it? [/INST]","Sure, you can try adding more egg yolk, or a tablespoon of mayonnaise to thicken it up. Alternatively, you could refrigerate it for a bit to see if it solidifies again. If none of these methods work, you could try starting again with fresh ingredients."
+98,Why is kobe beef so damn expensive?,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+Why is kobe beef so damn expensive? [/INST]","There are several reasons why Kobe beef can be expensive. Kobe beef is a type of Japanese Wagyu beef that is known for its marbling, flavor, and texture. It is raised on a specific diet of grass and hay, and is given medicinal treatments to promote the growth of marbling. This process can be expensive and time-consuming, which contributes to the higher cost of Kobe beef. Additionally, Kobe beef is a luxury item and is often sold at a premium price to those who value its unique taste and quality."
+99,You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top.,"<s>[INST] <soft_prompt_0><soft_prompt_1><soft_prompt_2><soft_prompt_3><soft_prompt_4><soft_prompt_5><soft_prompt_6><soft_prompt_7><soft_prompt_8><soft_prompt_9><soft_prompt_10><soft_prompt_11><soft_prompt_12><soft_prompt_13><soft_prompt_14><soft_prompt_15><soft_prompt_16><soft_prompt_17><soft_prompt_18><soft_prompt_19><soft_prompt_20><soft_prompt_21><soft_prompt_22>
+
+You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top. [/INST]","Congratulations on reaching the summit of Mount Everest! As you stand at the top, you can feel a sense of accomplishment and awe at the stunning view that surrounds you. The air is thin and crisp, and you can feel the rush of oxygen as you take deep breaths. The mountain looms majestically before you, and you can see the jagged peaks stretching out for miles in all directions. You can see the snow-capped peaks of other mountains in the distance, and the endless blue of the sky above. You feel a sense of exhilaration and freedom as you stand at the top of the world, taking in the breathtaking view and basking in the achievement of reaching this incredible feat."
