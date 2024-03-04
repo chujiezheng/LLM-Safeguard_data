@@ -1,6 +1,6 @@
 # LLM-Safeguard_data
 
-Data repository for paper "[Prompt-Driven LLM Safeguarding via Directed Representation Optimization](https://arxiv.org/abs/2401.18018)"
+Data repository for paper "[On Prompt-Driven Safeguarding for Large Language Models](https://arxiv.org/abs/2401.18018)"
 
 Official repository (for introduction and code): https://github.com/chujiezheng/LLM-Safeguard
 
